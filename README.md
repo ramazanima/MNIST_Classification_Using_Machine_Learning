@@ -2,7 +2,7 @@
 
 This project aims to develop a machine learning model that accurately classifies handwritten digits from the MNIST dataset. The MNIST dataset consists of grayscale images representing handwritten digits ranging from 0 to 9. The project explores various machine learning algorithms and techniques to achieve high accuracy in digit classification.
 
-**Dataset**
+***Dataset***
 The MNIST dataset used in this project is a widely recognized benchmark in the field of machine learning. It contains 60,000 training images and 10,000 testing images, each of size 28x28 pixels. The images have been preprocessed and normalized to grayscale.
 
 **Approach**
